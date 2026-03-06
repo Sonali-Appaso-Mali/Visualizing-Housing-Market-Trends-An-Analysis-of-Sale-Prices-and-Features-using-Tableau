@@ -8,3 +8,8 @@ You can view the Tableau dashboard here:
 
 You can view the Tableau story here:
 [Click Here to View Tableau Story](https://public.tableau.com/app/profile/sonali.mali2326/viz/VisualizingHousingMarketTrends_17726170717390/Story2)
+
+
+Click below to view the documentation:
+
+[View Documentation](./Documentation%20Of%20Visualizing%20Housing%20Market%20Trends%20Analysis.pdf)
